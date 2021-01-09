@@ -1,0 +1,27 @@
+body {
+  padding-top: 56px;
+}
+
+.customiseText{
+  padding: 10px;
+  text-align: center;
+  display: none;
+  color: white;
+  border-radius: 6px;
+}
+
+.customiseText2{
+  padding: 10px;
+  text-align: center;
+  display: none;
+  color: white;
+  border-radius: 6px;
+}
+
+.label-sm {
+  font-size: 14px !important;
+}
+
+div.dataTables_wrapper {
+  margin-bottom: 3em;
+}
